@@ -115,13 +115,13 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: lseyesl
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: duang
+description: 哈哈
 theme: kunka
 disqusname: minixalpha
 
